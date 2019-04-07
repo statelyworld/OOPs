@@ -1,6 +1,6 @@
 <?php 
 
-abstract class A{
+abstract class ExConstructor{
 	abstract function b();
 	public function c(){
 		echo "Can be used as it is";
